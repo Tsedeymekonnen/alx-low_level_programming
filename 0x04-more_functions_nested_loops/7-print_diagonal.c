@@ -5,7 +5,7 @@ void print_diagonal(int n){
       printf("\")
       }
    }
-              printf("\n")
+              printf("$\n")
 }
  int main(void)
 {
